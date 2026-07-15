@@ -2,7 +2,7 @@
 
 Writing code since 2005 — taught myself PHP and MySQL at fifteen because I wanted to put real pages with real databases on the internet, not do exercises out of a book. Broke a lot of stuff. Read a lot of other people's code. Never really stopped.
 
-In between then and now: ten years in sales. Real estate first, then B2B tech — Verizon, AT&T (finished #1 B2B rep in the Southwest region), now Cox Business selling the network infrastructure companies actually run on. None of that was engineering and I'm not going to pretend it was. But I've sat across the table from hundreds of decision-makers and watched how companies really evaluate, buy, and adopt technology. Most engineers never get to see that part.
+In between then and now: ten years in sales. Real estate first, then B2B tech — Verizon, AT&T, now Cox Business selling the network infrastructure companies actually run on. None of that was engineering and I'm not going to pretend it was. But I've sat across the table from hundreds of decision-makers and watched how companies really evaluate, buy, and adopt technology. Most engineers never get to see that part.
 
 Now I'm heading into a Master's in Computer Science and building the portfolio in public. Everything below goes up here as it gets written — small commits, real tests, READMEs you can run in under two minutes.
 
